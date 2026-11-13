@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: US retirement limits data
+message: If you use this dataset, please cite it and the official sources it restates.
+type: dataset
+version: 2026.1.0
+date-released: "2026-11-13"
+license: CC-BY-4.0
+authors:
+  - name: Lead Partner AS
+    website: https://goldiraaccounts.net/ira-contribution-limits/
+url: https://github.com/Lead-partner/retirement-limits-data
+repository-code: https://github.com/Lead-partner/retirement-limits-data
+abstract: >
+  Sourced JSON and CSV of official US IRA, 401(k), TSP, and SIMPLE contribution
+  limits, the IRS Uniform Lifetime RMD table, and IRC 408(m) IRA-eligible metal
+  rules, each row with a primary-source URL and retrieved date.

@@ -1,0 +1,3708 @@
+{
+  "meta": {
+    "name": "us-retirement-limits",
+    "title": "US retirement contribution limits, RMD Uniform Lifetime Table, and IRA-eligible metal rules",
+    "version": "2026.1.0",
+    "retrieved_date": "2026-11-13",
+    "license_data": "CC-BY-4.0",
+    "license_code": "MIT",
+    "maintainer": "Lead Partner AS",
+    "disclaimer": "This dataset restates publicly available U.S. tax-administration figures for research and software use. It is not legal, tax, or investment advice, is not an official IRS or Treasury publication, and may lag later corrections or legislation. Confirm every figure against the cited primary source before relying on it. Contribution limits can also be reduced by taxable compensation, income phase-outs, plan terms, and aggregation rules that are not fully encoded here.",
+    "schema_version": 1
+  },
+  "ira_contribution_limits": [
+    {
+      "year": 1997,
+      "contribution_limit": 2000,
+      "catch_up_age_50": null,
+      "total_if_age_50_or_older": null,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 1998,
+      "contribution_limit": 2000,
+      "catch_up_age_50": null,
+      "total_if_age_50_or_older": null,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 1999,
+      "contribution_limit": 2000,
+      "catch_up_age_50": null,
+      "total_if_age_50_or_older": null,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2000,
+      "contribution_limit": 2000,
+      "catch_up_age_50": null,
+      "total_if_age_50_or_older": null,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2001,
+      "contribution_limit": 2000,
+      "catch_up_age_50": null,
+      "total_if_age_50_or_older": null,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2002,
+      "contribution_limit": 3000,
+      "catch_up_age_50": 500,
+      "total_if_age_50_or_older": 3500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2003,
+      "contribution_limit": 3000,
+      "catch_up_age_50": 500,
+      "total_if_age_50_or_older": 3500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2004,
+      "contribution_limit": 3000,
+      "catch_up_age_50": 500,
+      "total_if_age_50_or_older": 3500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2005,
+      "contribution_limit": 4000,
+      "catch_up_age_50": 500,
+      "total_if_age_50_or_older": 4500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2006,
+      "contribution_limit": 4000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 5000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2007,
+      "contribution_limit": 4000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 5000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2008,
+      "contribution_limit": 5000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2009,
+      "contribution_limit": 5000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2010,
+      "contribution_limit": 5000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2011,
+      "contribution_limit": 5000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2012,
+      "contribution_limit": 5000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2013,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2014,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2015,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2016,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2017,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2018,
+      "contribution_limit": 5500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 6500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2019,
+      "contribution_limit": 6000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 7000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2020,
+      "contribution_limit": 6000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 7000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2021,
+      "contribution_limit": 6000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 7000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2022,
+      "contribution_limit": 6000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 7000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2023,
+      "contribution_limit": 6500,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 7500,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+          "label": "IRS Retirement topics — IRA contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2024,
+      "contribution_limit": 7000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 8000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+          "label": "IRS Retirement topics — IRA contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2025,
+      "contribution_limit": 7000,
+      "catch_up_age_50": 1000,
+      "total_if_age_50_or_older": 8000,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+          "label": "IRS Retirement topics — IRA contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row."
+    },
+    {
+      "year": 2026,
+      "contribution_limit": 7500,
+      "catch_up_age_50": 1100,
+      "total_if_age_50_or_older": 8600,
+      "applies_to": [
+        "traditional_ira",
+        "roth_ira"
+      ],
+      "code_section": "26 U.S.C. § 219(b)",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-drop/n-25-67.pdf",
+          "label": "IRS Notice 2025-67",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+          "label": "IRS IR-2025-111 (13 Nov 2025)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/irs-pdf/p590a.pdf",
+          "label": "IRS Publication 590-A (2025), for use in preparing 2025 returns (15 Jan 2026)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits",
+          "label": "IRS Retirement topics — IRA contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "This is the combined annual contribution limit across all traditional and Roth IRAs. It does not apply to rollovers. The deductible amount and Roth eligibility can be reduced by compensation and AGI phase-out rules that are not encoded in this row. The age-50 IRA catch-up became subject to an annual COLA under the SECURE 2.0 Act and increased to $1,100 for 2026 (IR-2025-111; Notice 2025-67)."
+    }
+  ],
+  "employer_plan_limits": [
+    {
+      "year": 1987,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 7000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1988,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 7313,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1989,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 7627,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1990,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 7979,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1991,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 8475,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1992,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 8728,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1993,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 8994,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1994,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 9240,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1995,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 9240,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1996,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 9500,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1997,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 9500,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1998,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 10000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 1999,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 10000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2000,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 10500,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2001,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 10500,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": null,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2002,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 11000,
+      "catch_up_age_50_414v": 1000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 40000,
+      "tsp_catch_up_age_50": null,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions. IRS COLA tables list a $1,000 statutory age-50 catch-up for 2002; the official TSP historical table records catch-up as N/A for 2002 (tsp_catch_up_age_50 is null)."
+    },
+    {
+      "year": 2003,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 12000,
+      "catch_up_age_50_414v": 2000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 40000,
+      "tsp_catch_up_age_50": 2000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2004,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 13000,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 41000,
+      "tsp_catch_up_age_50": 3000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2005,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 14000,
+      "catch_up_age_50_414v": 4000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 42000,
+      "tsp_catch_up_age_50": 4000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2006,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 15000,
+      "catch_up_age_50_414v": 5000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 44000,
+      "tsp_catch_up_age_50": 5000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2007,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 15500,
+      "catch_up_age_50_414v": 5000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 45000,
+      "tsp_catch_up_age_50": 5000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2008,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 15500,
+      "catch_up_age_50_414v": 5000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 46000,
+      "tsp_catch_up_age_50": 5000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2009,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 16500,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 49000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2010,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 16500,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 49000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2011,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 16500,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 49000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2012,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 17000,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 50000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2013,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 17500,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 51000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2014,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 17500,
+      "catch_up_age_50_414v": 5500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 52000,
+      "tsp_catch_up_age_50": 5500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2015,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 18000,
+      "catch_up_age_50_414v": 6000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 53000,
+      "tsp_catch_up_age_50": 6000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2016,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 18000,
+      "catch_up_age_50_414v": 6000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 53000,
+      "tsp_catch_up_age_50": 6000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2017,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 18000,
+      "catch_up_age_50_414v": 6000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 54000,
+      "tsp_catch_up_age_50": 6000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2018,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 18500,
+      "catch_up_age_50_414v": 6000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 55000,
+      "tsp_catch_up_age_50": 6000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2019,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 19000,
+      "catch_up_age_50_414v": 6000,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 56000,
+      "tsp_catch_up_age_50": 6000,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2020,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 19500,
+      "catch_up_age_50_414v": 6500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 57000,
+      "tsp_catch_up_age_50": 6500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2021,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 19500,
+      "catch_up_age_50_414v": 6500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 58000,
+      "tsp_catch_up_age_50": 6500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2022,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 20500,
+      "catch_up_age_50_414v": 6500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 61000,
+      "tsp_catch_up_age_50": 6500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2023,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 22500,
+      "catch_up_age_50_414v": 7500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 66000,
+      "tsp_catch_up_age_50": 7500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2024,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 23000,
+      "catch_up_age_50_414v": 7500,
+      "catch_up_age_60_63_414v": null,
+      "annual_additions_415c": 69000,
+      "tsp_catch_up_age_50": 7500,
+      "tsp_catch_up_age_60_63": null,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions."
+    },
+    {
+      "year": 2025,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 23500,
+      "catch_up_age_50_414v": 7500,
+      "catch_up_age_60_63_414v": 11250,
+      "annual_additions_415c": 70000,
+      "tsp_catch_up_age_50": 7500,
+      "tsp_catch_up_age_60_63": 11250,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tsp.gov/hr-payroll-resources/historical-info/",
+          "label": "TSP Historical information on contribution limits",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions. Beginning in 2025, SECURE 2.0 provides a higher catch-up limit for participants who attain age 60, 61, 62, or 63 during the calendar year. From 2026, catch-up contributions for some higher-wage participants must be Roth (see Notice 2025-67)."
+    },
+    {
+      "year": 2026,
+      "applies_to": [
+        "401k",
+        "403b",
+        "governmental_457b",
+        "thrift_savings_plan"
+      ],
+      "elective_deferral_402g": 24500,
+      "catch_up_age_50_414v": 8000,
+      "catch_up_age_60_63_414v": 11250,
+      "annual_additions_415c": 72000,
+      "tsp_catch_up_age_50": 8000,
+      "tsp_catch_up_age_60_63": 11250,
+      "code_sections": [
+        "26 U.S.C. § 402(g)",
+        "26 U.S.C. § 414(v)",
+        "26 U.S.C. § 415(c)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-drop/n-25-67.pdf",
+          "label": "IRS Notice 2025-67",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+          "label": "IRS IR-2025-111 (13 Nov 2025)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.tsp.gov/bulletins/25-3/",
+          "label": "TSP Bulletin 25-3, 2026 TSP Contribution Limits (19 Nov 2025)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "The IRC § 402(g) elective-deferral limit is a personal, aggregated limit across 401(k), 403(b), governmental 457(b), and TSP employee deferrals. Agency/employer automatic and matching contributions do not count toward 402(g) but do count toward the § 415(c) annual-additions limit. Catch-up amounts under § 414(v) are in addition to the 402(g) limit and are not annual additions. Beginning in 2025, SECURE 2.0 provides a higher catch-up limit for participants who attain age 60, 61, 62, or 63 during the calendar year. From 2026, catch-up contributions for some higher-wage participants must be Roth (see Notice 2025-67)."
+    }
+  ],
+  "simple_plan_limits": [
+    {
+      "year": 1997,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 6000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 1998,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 6000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 1999,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 6000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2000,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 6000,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2001,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 6500,
+      "catch_up_age_50_414v": null,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2002,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 7000,
+      "catch_up_age_50_414v": 500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2003,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 8000,
+      "catch_up_age_50_414v": 1000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2004,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 9000,
+      "catch_up_age_50_414v": 1500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2005,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 10000,
+      "catch_up_age_50_414v": 2000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2006,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 10000,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2007,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 10500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2008,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 10500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2009,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 11500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2010,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 11500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2011,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 11500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2012,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 11500,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2013,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12000,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2014,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12000,
+      "catch_up_age_50_414v": 2500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2015,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12500,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2016,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12500,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2017,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12500,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2018,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 12500,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2019,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 13000,
+      "catch_up_age_50_414v": 3000,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2020,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 13500,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2021,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 13500,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2022,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 14000,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2023,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 15500,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2024,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 16000,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": null,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2025,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 16500,
+      "catch_up_age_50_414v": 3500,
+      "catch_up_age_60_63_414v": 5250,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/foia/ig/tege/cola-table-dci005ma4578824.pdf",
+          "label": "IRS Prior Years COLA Tables PDF",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    },
+    {
+      "year": 2026,
+      "applies_to": [
+        "simple_ira",
+        "simple_401k"
+      ],
+      "elective_deferral": 17000,
+      "catch_up_age_50_414v": 4000,
+      "catch_up_age_60_63_414v": 5250,
+      "code_sections": [
+        "26 U.S.C. § 408(p)(2)(E)",
+        "26 U.S.C. § 414(v)(2)(B)(ii)"
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/pub/irs-drop/n-25-67.pdf",
+          "label": "IRS Notice 2025-67",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+          "label": "IRS IR-2025-111 (13 Nov 2025)",
+          "retrieved_date": "2026-11-13"
+        },
+        {
+          "url": "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions",
+          "label": "IRS COLA increases for dollar limitations (web table)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "notes": "Certain SIMPLE plans of smaller eligible employers have a higher elective limit (110% of the regular SIMPLE limit) under SECURE 2.0; that higher figure is $18,100 for 2026 (Notice 2025-67) and is not a separate column in this file."
+    }
+  ],
+  "rmd_uniform_lifetime": {
+    "table": "Uniform Lifetime Table (Table 2 to 26 CFR § 1.401(a)(9)-9(c))",
+    "applicable_for_distribution_years": "calendar years beginning on or after 2022-01-01",
+    "used_when": "Lifetime required minimum distributions for an employee or IRA owner when the surviving spouse is not the sole designated beneficiary, or is the sole designated beneficiary but is not more than 10 years younger. RMD = prior year-end account balance ÷ applicable denominator for the age attained in the distribution year.",
+    "required_beginning_date_note": "The table itself starts at age 72. The age at which RMDs must begin is a separate statutory rule (now generally age 73, and later age 75 for some later-born cohorts under SECURE 2.0) and is not encoded as a column here.",
+    "sources": [
+      {
+        "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+        "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+        "retrieved_date": "2026-11-13"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+        "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+        "retrieved_date": "2026-11-13"
+      }
+    ],
+    "rows": [
+      {
+        "age": 72,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 27.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 73,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 26.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 74,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 25.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 75,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 24.6,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 76,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 23.7,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 77,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 22.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 78,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 22.0,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 79,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 21.1,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 80,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 20.2,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 81,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 19.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 82,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 18.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 83,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 17.7,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 84,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 16.8,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 85,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 16.0,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 86,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 15.2,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 87,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 14.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 88,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 13.7,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 89,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 12.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 90,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 12.2,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 91,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 11.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 92,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 10.8,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 93,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 10.1,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 94,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 9.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 95,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 8.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 96,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 8.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 97,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 7.8,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 98,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 7.3,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 99,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 6.8,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 100,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 6.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 101,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 6.0,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 102,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 5.6,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 103,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 5.2,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 104,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 4.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 105,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 4.6,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 106,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 4.3,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 107,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 4.1,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 108,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 109,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.7,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 110,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 111,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.4,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 112,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.3,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 113,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.1,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 114,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 3.0,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 115,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 2.9,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 116,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 2.8,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 117,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 2.7,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 118,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 2.5,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 119,
+        "age_is_120_or_older": false,
+        "applicable_denominator": 2.3,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 120,
+        "age_is_120_or_older": true,
+        "applicable_denominator": 2.0,
+        "sources": [
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "ira_eligible_metals": {
+    "statute": {
+      "citation": "26 U.S.C. § 408(m)",
+      "retrieved_date": "2026-11-13",
+      "sources": [
+        {
+          "url": "https://www.law.cornell.edu/uscode/text/26/408",
+          "label": "26 U.S.C. § 408(m) (Cornell LII unofficial official-text publication)",
+          "retrieved_date": "2026-11-13"
+        }
+      ],
+      "rule": "The acquisition by an IRA of a 'collectible' is treated as a distribution equal to the cost of that collectible. 'Collectible' includes any metal or gem and any stamp or coin, with the exceptions in § 408(m)(3).",
+      "named_coin_exceptions": [
+        {
+          "description": "A gold coin described in paragraph (7), (8), (9), or (10) of 31 U.S.C. § 5112(a)",
+          "code": "26 U.S.C. § 408(m)(3)(A)(i)"
+        },
+        {
+          "description": "A silver coin described in 31 U.S.C. § 5112(e)",
+          "code": "26 U.S.C. § 408(m)(3)(A)(ii)"
+        },
+        {
+          "description": "A platinum coin described in 31 U.S.C. § 5112(k)",
+          "code": "26 U.S.C. § 408(m)(3)(A)(iii)"
+        },
+        {
+          "description": "A coin issued under the laws of any State",
+          "code": "26 U.S.C. § 408(m)(3)(A)(iv)"
+        }
+      ],
+      "bullion_exception": "Gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 5 of the Commodity Exchange Act, 7 U.S.C. § 7) requires for metals which may be delivered in satisfaction of a regulated futures contract, if such bullion is in the physical possession of a trustee described in 26 U.S.C. § 408(a).",
+      "notes": "The statute incorporates contract-market delivery fineness by reference; those exchange rules can change. Coins that are not in the named U.S. Mint / state-issue list (for example many foreign bullion coins, or U.S. coins described in other paragraphs of 31 U.S.C. § 5112) are not automatically excepted as coins. They are excepted only if they meet the bullion fineness test and are held by the IRA trustee. This file does not determine whether any particular product is IRA-eligible."
+    },
+    "contract_market_minimum_fineness_retrieved": [
+      {
+        "metal": "gold",
+        "minimum_fineness": 0.995,
+        "fineness_notation": "995",
+        "how_the_exchange_states_it": "assay to a minimum of 995 fineness",
+        "contract_market": "COMEX (CME Group)",
+        "contract": "Gold futures, Chapter 113",
+        "sources": [
+          {
+            "url": "https://www.cmegroup.com/rulebook/COMEX/1a/113.pdf",
+            "label": "CME Group COMEX Rulebook Chapter 113 (Gold Futures)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "metal": "silver",
+        "minimum_fineness": 0.999,
+        "fineness_notation": "999",
+        "how_the_exchange_states_it": "assay to a minimum of 999 fineness",
+        "contract_market": "COMEX (CME Group)",
+        "contract": "Silver futures, Chapter 112",
+        "sources": [
+          {
+            "url": "https://www.cmegroup.com/rulebook/COMEX/1a/112.pdf",
+            "label": "CME Group COMEX Rulebook Chapter 112 (Silver Futures)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "metal": "platinum",
+        "minimum_fineness": 0.9995,
+        "fineness_notation": "999.5 / 99.95%",
+        "how_the_exchange_states_it": "a minimum of 99.95% pure",
+        "contract_market": "NYMEX (CME Group)",
+        "contract": "Platinum futures, Chapter 105",
+        "sources": [
+          {
+            "url": "https://www.cmegroup.com/rulebook/NYMEX/1a/105.pdf",
+            "label": "CME Group NYMEX Rulebook Chapter 105 (Platinum Futures)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "metal": "palladium",
+        "minimum_fineness": 0.9995,
+        "fineness_notation": "999.5 / 99.95%",
+        "how_the_exchange_states_it": "a minimum of 99.95% pure",
+        "contract_market": "NYMEX (CME Group)",
+        "contract": "Palladium futures, Chapter 106",
+        "sources": [
+          {
+            "url": "https://www.cmegroup.com/rulebook/NYMEX/1a/106.pdf",
+            "label": "CME Group NYMEX Rulebook Chapter 106 (Palladium Futures)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+metal,minimum_fineness,fineness_notation,how_the_exchange_states_it,contract_market,contract,source_url,retrieved_date
+gold,0.995,995,assay to a minimum of 995 fineness,COMEX (CME Group),"Gold futures, Chapter 113",https://www.cmegroup.com/rulebook/COMEX/1a/113.pdf,2026-11-13
+silver,0.999,999,assay to a minimum of 999 fineness,COMEX (CME Group),"Silver futures, Chapter 112",https://www.cmegroup.com/rulebook/COMEX/1a/112.pdf,2026-11-13
+platinum,0.9995,999.5 / 99.95%,a minimum of 99.95% pure,NYMEX (CME Group),"Platinum futures, Chapter 105",https://www.cmegroup.com/rulebook/NYMEX/1a/105.pdf,2026-11-13
+palladium,0.9995,999.5 / 99.95%,a minimum of 99.95% pure,NYMEX (CME Group),"Palladium futures, Chapter 106",https://www.cmegroup.com/rulebook/NYMEX/1a/106.pdf,2026-11-13

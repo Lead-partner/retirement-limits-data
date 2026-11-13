@@ -1,0 +1,20 @@
+{
+  "name": "retirement-limits-data",
+  "version": "2026.1.0",
+  "private": true,
+  "description": "Sourced US IRA, 401(k), TSP, RMD, and IRC 408(m) data. Not published to npm.",
+  "type": "module",
+  "exports": "./src/js/index.js",
+  "files": [
+    "data/",
+    "src/js/",
+    "LICENSE",
+    "LICENSE-DATA",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "python3 scripts/validate.py && node tests/test_loader.js",
+    "build": "python3 scripts/build_dataset.py",
+    "validate": "python3 scripts/validate.py"
+  }
+}

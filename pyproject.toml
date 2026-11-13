@@ -1,0 +1,12 @@
+[project]
+name = "retirement-limits-data"
+version = "2026.1.0"
+description = "Sourced US IRA, 401(k), TSP, RMD, and IRC 408(m) data. Not published to PyPI."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Lead Partner AS" }]
+
+[tool.setuptools]
+# Intentionally not configured for publication.
+py-modules = []
