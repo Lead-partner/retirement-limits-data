@@ -18,6 +18,7 @@ from retirement_limits import (  # noqa: E402
     metal_fineness,
     rmd_amount,
     rmd_denominator,
+    single_life_expectancy,
 )
 
 errors: list[str] = []
@@ -116,6 +117,27 @@ def main() -> int:
     denoms = [r["applicable_denominator"] for r in rmd_rows if not r["age_is_120_or_older"]]
     check(all(a > b for a, b in zip(denoms, denoms[1:])), "RMD denominators not strictly declining")
 
+    single_life = dataset["rmd_single_life"]
+    single_rows = single_life["rows"]
+    check([r["age"] for r in single_rows] == list(range(121)), "Single Life ages 0-120")
+    single_anchors = {0: 84.6, 55: 31.6, 57: 29.8, 120: 1.0}
+    single_by_age = {r["age"]: r for r in single_rows}
+    for age, expectancy in single_anchors.items():
+        check(single_by_age[age]["life_expectancy"] == expectancy, f"Single Life age {age}")
+    expectancies = [r["life_expectancy"] for r in single_rows]
+    check(all(a >= b for a, b in zip(expectancies, expectancies[1:])), "Single Life expectancies not non-increasing")
+    single_source_urls = [
+        "https://www.irs.gov/publications/p590b",
+        "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+        "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+    ]
+    check([s["url"] for s in single_life["sources"]] == single_source_urls, "Single Life table sources")
+    for row in single_rows:
+        check(row["age_is_120_or_older"] is (row["age"] == 120), f"Single Life 120+ flag {row['age']}")
+        check(isinstance(row["life_expectancy"], (int, float)) and row["life_expectancy"] > 0, f"Single Life expectancy {row['age']}")
+        check(row["sources"] == single_life["sources"], f"Single Life sources {row['age']}")
+    check(all(s["retrieved_date"] == "2026-11-13" for s in single_life["sources"]), "Single Life source dates")
+
     metals = {m["metal"]: m for m in dataset["ira_eligible_metals"]["contract_market_minimum_fineness_retrieved"]}
     check(metals["gold"]["minimum_fineness"] == 0.995, "gold fineness")
     check(metals["silver"]["minimum_fineness"] == 0.999, "silver fineness")
@@ -151,12 +173,36 @@ def main() -> int:
     for csv_row in rmd_csv:
         check(csv_row["source_url"].startswith("https://"), "RMD csv source")
 
+    single_csv = csv_rows("rmd-single-life.csv")
+    check(len(single_csv) == len(single_rows), "Single Life csv length")
+    check(list(single_csv[0]) == ["age", "age_is_120_or_older", "life_expectancy", "source_url", "retrieved_date"], "Single Life csv columns")
+    for json_row, csv_row in zip(single_rows, single_csv):
+        check(int(csv_row["age"]) == json_row["age"], "Single Life csv age")
+        check(csv_row["age_is_120_or_older"] == str(json_row["age_is_120_or_older"]).lower(), "Single Life csv 120+ flag")
+        check(float(csv_row["life_expectancy"]) == json_row["life_expectancy"], "Single Life csv expectancy")
+        check(csv_row["source_url"] == json_row["sources"][0]["url"], "Single Life csv source")
+        check(csv_row["retrieved_date"] == json_row["sources"][0]["retrieved_date"], "Single Life csv date")
+
     # Loader smoke tests
     check(ira_limit(2026, age=49)["applicable_limit"] == 7500, "loader IRA under 50")
     check(ira_limit(2026, age=50)["applicable_limit"] == 8600, "loader IRA age 50")
     check(employer_plan_limit(2026)["elective_deferral_402g"] == 24500, "loader 402g")
     check(rmd_denominator(75) == 24.6, "loader RMD 75")
     check(abs(rmd_amount(246000, 75) - 10000) < 1e-9, "loader RMD math")
+    for age, expectancy in single_anchors.items():
+        check(single_life_expectancy(age) == expectancy, f"loader Single Life age {age}")
+    check(single_life_expectancy(121) == 1.0, "loader Single Life 121 clamps")
+    check(single_life_expectancy(150) == 1.0, "loader Single Life 150 clamps")
+    check(single_life_expectancy(55, dataset) == 31.6, "loader Single Life explicit dataset")
+    loaded_expectancies = [single_life_expectancy(age) for age in range(121)]
+    check(all(a >= b for a, b in zip(loaded_expectancies, loaded_expectancies[1:])), "loader Single Life not non-increasing")
+    for invalid_age in (-1, 55.5, 120.5, 55.0, "55", None, True, float("nan"), float("inf")):
+        try:
+            single_life_expectancy(invalid_age)
+        except ValueError:
+            pass
+        else:
+            check(False, f"loader Single Life accepted invalid age {invalid_age!r}")
     check(metal_fineness("Gold")["minimum_fineness"] == 0.995, "loader metal")
 
     if errors:

@@ -17,7 +17,8 @@ Where the IRS COLA PDF and the TSP historical table overlap (most years 1989 and
 
 ## Required minimum distributions
 
-- [26 CFR § 1.401(a)(9)-9, Life expectancy and Uniform Lifetime tables](https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9) — eCFR text of Table 2 (Uniform Lifetime Table). The eCFR is authoritative but unofficial.
+- [IRS Publication 590-B (2025), Appendix B, Table I](https://www.irs.gov/publications/p590b) — “Single Life Expectancy (For Use by Beneficiaries),” ages 0–120 and over. The values were extracted and verified from the IRS page on 13 November 2026. Spot checks: age 0 = 84.6, age 55 = 31.6 and age 57 = 29.8 (also quoted in worked examples), age 120 and over = 1.0.
+- [26 CFR § 1.401(a)(9)-9, Life expectancy and Uniform Lifetime tables](https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9) — eCFR text of Table 1 in paragraph (b) (Single Life Expectancy, the same table as Publication 590-B Table I) and Table 2 in paragraph (c) (Uniform Lifetime Table). The eCFR is authoritative but unofficial.
 - [T.D. 9930, 85 Fed. Reg. 72472 (12 November 2020)](https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm) — official Federal Register publication of the current tables, applicable for distribution calendar years beginning on or after 1 January 2022.
 
 ## IRA-eligible metals

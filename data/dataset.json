@@ -3609,6 +3609,2692 @@
       }
     ]
   },
+  "rmd_single_life": {
+    "table": "Single Life Expectancy Table (IRS Publication 590-B, Table I; Table 1 to 26 CFR § 1.401(a)(9)-9(b))",
+    "applicable_for_distribution_years": "calendar years beginning on or after 2022-01-01",
+    "used_when": "Life expectancy lookups for beneficiaries using Table I (Single Life Expectancy). The applicable beneficiary distribution rules determine how the table is used.",
+    "sources": [
+      {
+        "url": "https://www.irs.gov/publications/p590b",
+        "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+        "retrieved_date": "2026-11-13"
+      },
+      {
+        "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+        "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+        "retrieved_date": "2026-11-13"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+        "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+        "retrieved_date": "2026-11-13"
+      }
+    ],
+    "rows": [
+      {
+        "age": 0,
+        "age_is_120_or_older": false,
+        "life_expectancy": 84.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 1,
+        "age_is_120_or_older": false,
+        "life_expectancy": 83.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 2,
+        "age_is_120_or_older": false,
+        "life_expectancy": 82.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 3,
+        "age_is_120_or_older": false,
+        "life_expectancy": 81.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 4,
+        "age_is_120_or_older": false,
+        "life_expectancy": 80.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 5,
+        "age_is_120_or_older": false,
+        "life_expectancy": 79.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 6,
+        "age_is_120_or_older": false,
+        "life_expectancy": 78.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 7,
+        "age_is_120_or_older": false,
+        "life_expectancy": 77.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 8,
+        "age_is_120_or_older": false,
+        "life_expectancy": 76.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 9,
+        "age_is_120_or_older": false,
+        "life_expectancy": 75.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 10,
+        "age_is_120_or_older": false,
+        "life_expectancy": 74.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 11,
+        "age_is_120_or_older": false,
+        "life_expectancy": 73.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 12,
+        "age_is_120_or_older": false,
+        "life_expectancy": 72.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 13,
+        "age_is_120_or_older": false,
+        "life_expectancy": 71.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 14,
+        "age_is_120_or_older": false,
+        "life_expectancy": 70.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 15,
+        "age_is_120_or_older": false,
+        "life_expectancy": 69.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 16,
+        "age_is_120_or_older": false,
+        "life_expectancy": 69.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 17,
+        "age_is_120_or_older": false,
+        "life_expectancy": 68.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 18,
+        "age_is_120_or_older": false,
+        "life_expectancy": 67.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 19,
+        "age_is_120_or_older": false,
+        "life_expectancy": 66.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 20,
+        "age_is_120_or_older": false,
+        "life_expectancy": 65.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 21,
+        "age_is_120_or_older": false,
+        "life_expectancy": 64.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 22,
+        "age_is_120_or_older": false,
+        "life_expectancy": 63.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 23,
+        "age_is_120_or_older": false,
+        "life_expectancy": 62.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 24,
+        "age_is_120_or_older": false,
+        "life_expectancy": 61.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 25,
+        "age_is_120_or_older": false,
+        "life_expectancy": 60.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 26,
+        "age_is_120_or_older": false,
+        "life_expectancy": 59.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 27,
+        "age_is_120_or_older": false,
+        "life_expectancy": 58.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 28,
+        "age_is_120_or_older": false,
+        "life_expectancy": 57.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 29,
+        "age_is_120_or_older": false,
+        "life_expectancy": 56.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 30,
+        "age_is_120_or_older": false,
+        "life_expectancy": 55.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 31,
+        "age_is_120_or_older": false,
+        "life_expectancy": 54.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 32,
+        "age_is_120_or_older": false,
+        "life_expectancy": 53.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 33,
+        "age_is_120_or_older": false,
+        "life_expectancy": 52.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 34,
+        "age_is_120_or_older": false,
+        "life_expectancy": 51.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 35,
+        "age_is_120_or_older": false,
+        "life_expectancy": 50.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 36,
+        "age_is_120_or_older": false,
+        "life_expectancy": 49.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 37,
+        "age_is_120_or_older": false,
+        "life_expectancy": 48.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 38,
+        "age_is_120_or_older": false,
+        "life_expectancy": 47.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 39,
+        "age_is_120_or_older": false,
+        "life_expectancy": 46.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 40,
+        "age_is_120_or_older": false,
+        "life_expectancy": 45.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 41,
+        "age_is_120_or_older": false,
+        "life_expectancy": 44.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 42,
+        "age_is_120_or_older": false,
+        "life_expectancy": 43.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 43,
+        "age_is_120_or_older": false,
+        "life_expectancy": 42.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 44,
+        "age_is_120_or_older": false,
+        "life_expectancy": 41.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 45,
+        "age_is_120_or_older": false,
+        "life_expectancy": 41.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 46,
+        "age_is_120_or_older": false,
+        "life_expectancy": 40.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 47,
+        "age_is_120_or_older": false,
+        "life_expectancy": 39.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 48,
+        "age_is_120_or_older": false,
+        "life_expectancy": 38.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 49,
+        "age_is_120_or_older": false,
+        "life_expectancy": 37.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 50,
+        "age_is_120_or_older": false,
+        "life_expectancy": 36.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 51,
+        "age_is_120_or_older": false,
+        "life_expectancy": 35.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 52,
+        "age_is_120_or_older": false,
+        "life_expectancy": 34.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 53,
+        "age_is_120_or_older": false,
+        "life_expectancy": 33.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 54,
+        "age_is_120_or_older": false,
+        "life_expectancy": 32.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 55,
+        "age_is_120_or_older": false,
+        "life_expectancy": 31.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 56,
+        "age_is_120_or_older": false,
+        "life_expectancy": 30.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 57,
+        "age_is_120_or_older": false,
+        "life_expectancy": 29.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 58,
+        "age_is_120_or_older": false,
+        "life_expectancy": 28.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 59,
+        "age_is_120_or_older": false,
+        "life_expectancy": 28.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 60,
+        "age_is_120_or_older": false,
+        "life_expectancy": 27.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 61,
+        "age_is_120_or_older": false,
+        "life_expectancy": 26.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 62,
+        "age_is_120_or_older": false,
+        "life_expectancy": 25.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 63,
+        "age_is_120_or_older": false,
+        "life_expectancy": 24.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 64,
+        "age_is_120_or_older": false,
+        "life_expectancy": 23.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 65,
+        "age_is_120_or_older": false,
+        "life_expectancy": 22.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 66,
+        "age_is_120_or_older": false,
+        "life_expectancy": 22.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 67,
+        "age_is_120_or_older": false,
+        "life_expectancy": 21.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 68,
+        "age_is_120_or_older": false,
+        "life_expectancy": 20.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 69,
+        "age_is_120_or_older": false,
+        "life_expectancy": 19.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 70,
+        "age_is_120_or_older": false,
+        "life_expectancy": 18.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 71,
+        "age_is_120_or_older": false,
+        "life_expectancy": 18.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 72,
+        "age_is_120_or_older": false,
+        "life_expectancy": 17.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 73,
+        "age_is_120_or_older": false,
+        "life_expectancy": 16.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 74,
+        "age_is_120_or_older": false,
+        "life_expectancy": 15.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 75,
+        "age_is_120_or_older": false,
+        "life_expectancy": 14.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 76,
+        "age_is_120_or_older": false,
+        "life_expectancy": 14.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 77,
+        "age_is_120_or_older": false,
+        "life_expectancy": 13.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 78,
+        "age_is_120_or_older": false,
+        "life_expectancy": 12.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 79,
+        "age_is_120_or_older": false,
+        "life_expectancy": 11.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 80,
+        "age_is_120_or_older": false,
+        "life_expectancy": 11.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 81,
+        "age_is_120_or_older": false,
+        "life_expectancy": 10.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 82,
+        "age_is_120_or_older": false,
+        "life_expectancy": 9.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 83,
+        "age_is_120_or_older": false,
+        "life_expectancy": 9.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 84,
+        "age_is_120_or_older": false,
+        "life_expectancy": 8.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 85,
+        "age_is_120_or_older": false,
+        "life_expectancy": 8.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 86,
+        "age_is_120_or_older": false,
+        "life_expectancy": 7.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 87,
+        "age_is_120_or_older": false,
+        "life_expectancy": 7.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 88,
+        "age_is_120_or_older": false,
+        "life_expectancy": 6.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 89,
+        "age_is_120_or_older": false,
+        "life_expectancy": 6.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 90,
+        "age_is_120_or_older": false,
+        "life_expectancy": 5.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 91,
+        "age_is_120_or_older": false,
+        "life_expectancy": 5.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 92,
+        "age_is_120_or_older": false,
+        "life_expectancy": 4.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 93,
+        "age_is_120_or_older": false,
+        "life_expectancy": 4.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 94,
+        "age_is_120_or_older": false,
+        "life_expectancy": 4.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 95,
+        "age_is_120_or_older": false,
+        "life_expectancy": 4.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 96,
+        "age_is_120_or_older": false,
+        "life_expectancy": 3.7,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 97,
+        "age_is_120_or_older": false,
+        "life_expectancy": 3.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 98,
+        "age_is_120_or_older": false,
+        "life_expectancy": 3.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 99,
+        "age_is_120_or_older": false,
+        "life_expectancy": 3.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 100,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 101,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 102,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.5,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 103,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.3,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 104,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.2,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 105,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 106,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 107,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 108,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 109,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 110,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 111,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 112,
+        "age_is_120_or_older": false,
+        "life_expectancy": 2.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 113,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 114,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.9,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 115,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 116,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.8,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 117,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.6,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 118,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.4,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 119,
+        "age_is_120_or_older": false,
+        "life_expectancy": 1.1,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "age": 120,
+        "age_is_120_or_older": true,
+        "life_expectancy": 1.0,
+        "sources": [
+          {
+            "url": "https://www.irs.gov/publications/p590b",
+            "label": "IRS Publication 590-B (2025), Appendix B, Table I",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR6f8c3724b50e44d/section-1.401(a)(9)-9",
+            "label": "26 CFR § 1.401(a)(9)-9 (eCFR; authoritative but unofficial)",
+            "retrieved_date": "2026-11-13"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2020-11-12/html/2020-24723.htm",
+            "label": "T.D. 9930, 85 Fed. Reg. 72472 (12 Nov 2020)",
+            "retrieved_date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
   "ira_eligible_metals": {
     "statute": {
       "citation": "26 U.S.C. § 408(m)",

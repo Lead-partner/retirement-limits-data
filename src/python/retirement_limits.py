@@ -58,6 +58,18 @@ def rmd_denominator(age: int, dataset: Optional[dict] = None) -> float:
     raise KeyError(f"No Uniform Lifetime denominator for age {age}")
 
 
+def single_life_expectancy(age: int, dataset: Optional[dict] = None) -> float:
+    """Single Life Expectancy Table lookup; ages 120 and older share one row."""
+    if isinstance(age, bool) or not isinstance(age, int) or age < 0:
+        raise ValueError("age must be a non-negative integer")
+    data = dataset or load_dataset()
+    lookup_age = min(age, 120)
+    for row in data["rmd_single_life"]["rows"]:
+        if row["age"] == lookup_age:
+            return float(row["life_expectancy"])
+    raise KeyError(f"No Single Life expectancy for age {age}")
+
+
 def rmd_amount(account_balance: float, age: int, dataset: Optional[dict] = None) -> float:
     """Prior year-end balance divided by the Uniform Lifetime denominator."""
     if account_balance < 0:

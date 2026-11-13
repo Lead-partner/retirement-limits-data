@@ -1,6 +1,6 @@
 # Schema
 
-`data/dataset.json` is the canonical document. The CSV files are flattened views of the same figures, with one primary `source_url` and `retrieved_date` on every row. Dollar amounts are integers (USD, no cents). Fineness and RMD denominators are decimal numbers.
+`data/dataset.json` is the canonical document. The CSV files are flattened views of the same figures, with one primary `source_url` and `retrieved_date` on every row. Dollar amounts are integers (USD, no cents). Fineness, RMD denominators, and life expectancies are decimal numbers.
 
 ## `meta`
 
@@ -57,6 +57,25 @@ Treasury regulation 26 CFR § 1.401(a)(9)-9(c), Table 2, applicable for distribu
 | `applicable_denominator` | number | Divide the prior year-end account balance by this number |
 
 The table starts at 72. The age at which RMDs must begin is a separate statutory rule and is not a column here.
+
+## `rmd_single_life`
+
+IRS Publication 590-B (2025), Appendix B, Table I (Single Life Expectancy, For Use by Beneficiaries), also Table 1 in 26 CFR § 1.401(a)(9)-9(b). Applicable for distribution calendar years beginning on or after 1 January 2022 (T.D. 9930).
+
+The block follows `rmd_uniform_lifetime`: `table`, `applicable_for_distribution_years`, `used_when`, `sources`, and `rows`. Both the table and each row cite Publication 590-B, eCFR, and T.D. 9930, retrieved on `2026-11-13`.
+
+`rows` contains 121 objects, one per age from 0 through 120:
+
+| Field | Type | Meaning |
+|-------|------|---------|
+| `age` | integer | Age in the table, 0–120; 120 represents “120 and over” |
+| `age_is_120_or_older` | boolean | `true` only for the final row, age 120 |
+| `life_expectancy` | number | Single Life expectancy in years; non-increasing with age |
+| `sources` | array | Each entry has `url`, `label`, `retrieved_date` |
+
+`data/rmd-single-life.csv` has columns `age,age_is_120_or_older,life_expectancy,source_url,retrieved_date`. The primary CSV source is Publication 590-B; boolean values are lowercase `true`/`false`.
+
+The loaders `single_life_expectancy(age)` (Python) and `singleLifeExpectancy(age)` (JavaScript) return `life_expectancy`, clamp ages above 120 to the final row, and reject negative ages and non-integer inputs. Beneficiary distribution rules determine how to apply the table; the helpers only look up values.
 
 ## `ira_eligible_metals`
 

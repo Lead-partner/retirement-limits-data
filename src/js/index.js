@@ -46,6 +46,16 @@ export function rmdDenominator(age, dataset = loadDataset()) {
   return Number(row.applicable_denominator);
 }
 
+export function singleLifeExpectancy(age, dataset = loadDataset()) {
+  if (!Number.isInteger(age) || age < 0) {
+    throw new Error("age must be a non-negative integer");
+  }
+  const rows = dataset.rmd_single_life.rows;
+  const row = rows.find((r) => r.age === Math.min(age, 120));
+  if (!row) throw new Error(`No Single Life expectancy for age ${age}`);
+  return Number(row.life_expectancy);
+}
+
 export function rmdAmount(accountBalance, age, dataset = loadDataset()) {
   if (accountBalance < 0) throw new Error("accountBalance must be >= 0");
   return accountBalance / rmdDenominator(age, dataset);

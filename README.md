@@ -6,6 +6,7 @@ A small, sourced dataset of official United States retirement figures:
 - 401(k) / 403(b) / governmental 457(b) / TSP elective-deferral, catch-up, and § 415(c) annual-additions limits, 1987–2026
 - SIMPLE plan limits, 1997–2026
 - The IRS Uniform Lifetime Table used to compute required minimum distributions (distribution years 2022 onward)
+- The IRS Single Life Expectancy Table (Table I) for beneficiaries, ages 0–120+ (distribution years 2022 onward)
 - The IRC § 408(m) rules for IRA-eligible coins and bullion, plus the CME Group contract-market fineness minima that the statute incorporates by reference
 
 Every row carries a primary-source URL and the date it was retrieved (13 November 2026). The figures are restated from IRS notices and publications, the official TSP historical table, Treasury regulations, the U.S. Code, and CME Group rulebooks. Nothing here is estimated or crowd-sourced.
@@ -22,11 +23,12 @@ Maintained by [Lead Partner AS](https://goldiraaccounts.net/ira-contribution-lim
 
 | File | What's in it |
 |------|----------------|
-| [`data/dataset.json`](data/dataset.json) | Canonical dataset (limits, RMD table, metal rules, sources, notes) |
+| [`data/dataset.json`](data/dataset.json) | Canonical dataset (limits, RMD tables, metal rules, sources, notes) |
 | [`data/ira-contribution-limits.csv`](data/ira-contribution-limits.csv) | IRA annual limit and age-50 catch-up |
 | [`data/employer-plan-limits.csv`](data/employer-plan-limits.csv) | § 402(g), § 414(v), § 415(c), and the TSP catch-up series |
 | [`data/simple-plan-limits.csv`](data/simple-plan-limits.csv) | SIMPLE IRA / SIMPLE 401(k) limits |
 | [`data/rmd-uniform-lifetime.csv`](data/rmd-uniform-lifetime.csv) | Uniform Lifetime Table denominators, ages 72–120+ |
+| [`data/rmd-single-life.csv`](data/rmd-single-life.csv) | Single Life Expectancy Table (Table I), ages 0–120+ |
 | [`data/ira-eligible-metals-fineness.csv`](data/ira-eligible-metals-fineness.csv) | Gold, silver, platinum, and palladium contract-market minima |
 | [`schema.md`](schema.md) | Field definitions |
 | [`SOURCES.md`](SOURCES.md) | The official documents behind the figures |
@@ -41,24 +43,28 @@ Python (3.9+), no dependencies:
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path("src/python")))
-from retirement_limits import ira_limit, rmd_amount, metal_fineness
+from retirement_limits import ira_limit, rmd_amount, single_life_expectancy, metal_fineness
 
 print(ira_limit(2026, age=52)["applicable_limit"])  # 8600
 print(rmd_amount(246_000, age=75))                  # 10000.0
+print(single_life_expectancy(55))                  # 31.6
 print(metal_fineness("gold")["minimum_fineness"])   # 0.995
 ```
 
 JavaScript (Node 18+), no dependencies:
 
 ```js
-import { iraLimit, rmdAmount, metalFineness } from "./src/js/index.js";
+import { iraLimit, rmdAmount, singleLifeExpectancy, metalFineness } from "./src/js/index.js";
 
 console.log(iraLimit(2026, 52).applicable_limit);      // 8600
 console.log(rmdAmount(246000, 75));                    // 10000
+console.log(singleLifeExpectancy(55));                // 31.6
 console.log(metalFineness("gold").minimum_fineness);   // 0.995
 ```
 
 You can also just read the CSV or JSON files. An RMD for a given year is the prior year-end account balance divided by the Uniform Lifetime denominator for the age the owner attains in that distribution year. That is the regulatory formula; it is not advice about whether or when to take a distribution.
+
+`single_life_expectancy(age)` and `singleLifeExpectancy(age)` return the Table I life expectancy for a non-negative integer age. Ages above 120 use the “120 and over” row (1.0); negative ages and non-integer inputs raise an error. These helpers perform table lookups; beneficiary distribution rules determine how to use the result.
 
 ## What the metal file does and does not say
 
