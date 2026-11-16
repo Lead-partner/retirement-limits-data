@@ -17,7 +17,7 @@ This is not tax, legal, or investment advice, and it is not an official IRS or T
 
 Retirement-limit tables are scattered across annual IRS notices, Publication 590-A worksheets, TSP bulletins, and the Code of Federal Regulations. Developers, journalists, and researchers end up re-typing the same numbers. This repository keeps one compiled, machine-readable copy with the citations attached, and a couple of tiny loaders so you can use it in Python or JavaScript without a package registry.
 
-Maintained by [Lead Partner AS](https://goldiraaccounts.net/ira-contribution-limits/), which also publishes a plain-English guide to IRA contribution limits.
+Maintained by [Lead Partner AS](https://github.com/Lead-partner).
 
 ## Files
 
